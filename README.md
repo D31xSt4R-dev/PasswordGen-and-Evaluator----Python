@@ -86,6 +86,3 @@ Don't share your encryption keys
 
 ## License
 ## This project is open source and available under the MIT License.
-
-
-## This README provides a comprehensive overview of your password manager application, including all its features, setup instructions, and security considerations. Users will find everything they need to get started and make the most of the application's capabilities.
